@@ -119,7 +119,7 @@ var tourpoint = {
         "type": "Feature",
         "properties": {
           "name": "Phu Chee Fah",
-          "type": "ืnature",
+          "type": "nature",
           "marker-color": "#28d411",
           "marker-size": "medium",
           "marker-symbol": "circle",
